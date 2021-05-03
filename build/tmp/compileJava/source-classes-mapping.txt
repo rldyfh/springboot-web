@@ -19,11 +19,11 @@ org/example/springboot/web/dto/PostsSaveRequestDto.java
  org.example.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 org/example/springboot/web/dto/PostsListResponseDto.java
  org.example.springboot.web.dto.PostsListResponseDto
+org/example/springboot/domain/posts/PostsRepository.java
+ org.example.springboot.domain.posts.PostsRepository
 org/example/springboot/web/IndexController.java
  org.example.springboot.web.IndexController
 org/example/springboot/web/PostsApiController.java
  org.example.springboot.web.PostsApiController
-org/example/springboot/domain/posts/PostsRepository.java
- org.example.springboot.domain.posts.PostsRepository
 org/example/springboot/service/PostsService.java
  org.example.springboot.service.PostsService
